@@ -54,3 +54,7 @@ body {
 .buttons button:active {
     transform: scale(0.97);
 }
+
+.operator {
+    color: #2f9fff;
+}
